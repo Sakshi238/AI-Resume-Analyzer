@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AI Resume Analyzer
 
 AI Resume Analyzer is a Python project that evaluates resumes against role requirements using OpenAI, FastAPI, and Streamlit.
@@ -116,7 +115,10 @@ The app returns clear errors for common scenarios:
 
 ## License
 Add your preferred license (for example, MIT) before publishing.
-=======
+
 # AI-Resume-Analyzer
 AI-powered Resume Analyzer built with FastAPI, Streamlit, and OpenAI. Upload PDF resumes, compare against job descriptions, and get ATS score, skill gaps, and actionable suggestions.
->>>>>>> ef061938b07b4200024ab6f6eec5612b8d59da06
+
+
+
+
